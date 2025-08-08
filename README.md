@@ -33,10 +33,14 @@
           <div align="center">
       ${\textsf{\color{#d7b3b1}Do NOT Interact!}}$ 
 <p align="center"><kbd><br><br><br>$\color{#f47e8d}{\textsf{Basic DNI criteria, Alternate skins (don't be weird!)}}$<br><br><br> $\color{#f47e8d}{\textsf{Endo/Tupla/Demo "systems"/Mental health fakers}}$<br>$\color{#f47e8d}{\textsf{is an instant block!}}$<br><br><br>$\color{#f47e8d}{\textsf{Under 16 (please don't lie abour your age!)}}$<br><br><br><br>&nbsp;  </kbd></p>
+
  <br>
     </td>
   </tr>
 </table>
+
+<div align="right">
+  Hello, I'm <b><i>Theo/Cesar</b></i>!
 
 
 <img src="https://64.media.tumblr.com/6edda2eff040b6aa4c670ee4fea52618/2e5ed6036e81c865-49/s400x600/a4ebe61c2b3243a3faefaa17276c546b2c1ed792.pnj" width="55%" height="10%"></a>
