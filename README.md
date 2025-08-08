@@ -38,8 +38,6 @@
     </td>
   </tr>
 </table>
-
-<div align="right">
   Hello, I'm <b><i>Theo/Cesar</b></i>!
 
 
