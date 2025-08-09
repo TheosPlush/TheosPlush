@@ -51,12 +51,23 @@
 ![](https://64.media.tumblr.com/853ef9202dcf2eeb6010105a3308a0f5/2e5ed6036e81c865-06/s400x600/83046d111dfa5221f3027842b6a8dfebe73d48f1.pnj)
   <br>
 
-
 <img src="https://64.media.tumblr.com/77c1bb11ffd9dda32896d6b1990963fa/86053b747a82ca38-82/s250x400/e89d37b6851df94d0a1016d1c373aa034afe4b44.pnj" width="85" align="center"></a>
 
-  ${\textsf{\color{#e09bba}Hello, I'm}}$ <b><i>Theo/Cesar</b></i>!
-  ${\textsf{\color{#e09bba}For}}$ <i>whatever</i> ${\textsf{\color{#e09bba} reason... I use this as a Coping Link!}}$ 
+  ${\textsf{\color{#e09bba}Hello, I'm}}$<img src="https://64.media.tumblr.com/1a50db247825856d1ed345e9ada9dca4/f4da32f386d0a4d7-94/s1280x1920/6dfa480978332cae093d799cf9a4fa8aa793076b.pnj" width="75" Title="Theo/Cesar"></a>${\textsf{\color{#e09bba}! For}}$ <i>whatever</i> ${\textsf{\color{#e09bba} reason... I use this as a Coping Link!}}$ 
   <br>
   ${\textsf{\color{#d6bfc3} Yes, I'm serious, and no, it isnt a delusion.}}$
   <br>
+    ${\textsf{\color{#eadde0} You can learn more about it.}}$<a href="https://copinglink.carrd.co/"><img src="https://64.media.tumblr.com/7147351deeb8df35f914f96d7cce9f29/8bf6b333222e758f-34/s500x750/df0ab4ee437c792cd2047aa395a5ac7cc323eb77.pnj" width="35" Title="Here!"></a>
+
+![](https://64.media.tumblr.com/47ec278ee846905598e41f0335e4e3db/406dc238616c68e6-f0/s400x600/ca2c94d013248e093a8460327a0d97a4464de810.pnj)
+
+
+ ${\textsf{\color{#eadde0}I'm not scared of hiding people over it, harassing wont do anything.}}$
+ <br>
+   ${\textsf{\color{#d6bfc3}I'm still the same person (of course), but may act slightly different!}}$
+<br>
+${\textsf{\color{#e09bba} I'll usually hang out around}}$ <i>TMC area/Docks</i> ${\textsf{\color{#e09bba} whenver this git is in use!}}$ 
+    
 ![](https://64.media.tumblr.com/2db0099fd00572df99cbf890392290ba/2e5ed6036e81c865-5c/s400x600/7d99f5088e926181c827c7fb4b93aca700806c27.pnj)
+
+<img width="289" height="323" alt="image" src="https://github.com/user-attachments/assets/05bbc43e-3c64-4b1a-aaac-846973d6071c" />
