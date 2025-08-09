@@ -57,7 +57,7 @@
   <br>
   ${\textsf{\color{#d6bfc3} Yes, I'm serious, and no, it isnt a delusion.}}$
   <br>
-    ${\textsf{\color{#eadde0} You can learn more about it}}$<a href="https://copinglink.carrd.co/"><img src="https://64.media.tumblr.com/7147351deeb8df35f914f96d7cce9f29/8bf6b333222e758f-34/s500x750/df0ab4ee437c792cd2047aa395a5ac7cc323eb77.pnj" width="35" Title="Here!"></a>
+    ${\textsf{\color{#eadde0} You can learn more about it}}$ <a href="https://copinglink.carrd.co/"><img src="https://64.media.tumblr.com/7147351deeb8df35f914f96d7cce9f29/8bf6b333222e758f-34/s500x750/df0ab4ee437c792cd2047aa395a5ac7cc323eb77.pnj" width="35" Title="Here!"></a>
 
 ![](https://64.media.tumblr.com/47ec278ee846905598e41f0335e4e3db/406dc238616c68e6-f0/s400x600/ca2c94d013248e093a8460327a0d97a4464de810.pnj)
 
