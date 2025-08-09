@@ -18,7 +18,7 @@
          <br>
           <div align="center">
       ${\textsf{\color{#fff3e7}Interact!}}$ 
-<p align="center"><kbd><br><br>$\color{#febbc3}{\textsf{Friends, Marks/Cassidy's, and anyone friendly!}}$<br><br><br> $\color{#febbc3}{\textsf{I'm always okay for people to come up and talk to me,}}$<br> $\color{#febbc3}{\textsf{or just sit with me!}}$<br><br><br>$\color{#febbc3}{\textsf{C+H is okay, and encouraged!! I love sitting with people!}}$<br><br><br>&nbsp;  </kbd></p>
+<p align="center"><kbd><br><br>$\color{#febbc3}{\textsf{Friends, Marks/Cassidy's, and anyone friendly!}}$<br><br> $\color{#febbc3}{\textsf{I'm always okay for people to come up and talk to me,}}$<br> $\color{#febbc3}{\textsf{or just sit with me!}}$<br><br>$\color{#febbc3}{\textsf{C+H is okay, and encouraged!! I love sitting with people!}}$<br><br>&nbsp;  </kbd></p>
  <br>
     </td>
   </tr>
@@ -32,7 +32,7 @@
          <br>
           <div align="center">
       ${\textsf{\color{#d7b3b1}Do NOT Interact!}}$ 
-<p align="center"><kbd><br><br>$\color{#f47e8d}{\textsf{Basic DNI criteria, Alternate skins (don't be weird!)}}$<br><br><br> $\color{#f47e8d}{\textsf{Endo/Tupla/Demo "systems"/Mental health fakers}}$<br>$\color{#f47e8d}{\textsf{is an instant block!}}$<br><br><br>$\color{#f47e8d}{\textsf{Under 16 (please don't lie abour your age!)}}$<br><br><br>&nbsp;  </kbd></p>
+<p align="center"><kbd><br><br>$\color{#f47e8d}{\textsf{Basic DNI criteria, Alternate skins (don't be weird!)}}$<br><br> $\color{#f47e8d}{\textsf{Endo/Tupla/Demo "systems"/Mental health fakers}}$<br>$\color{#f47e8d}{\textsf{is an instant block!}}$<br><br>$\color{#f47e8d}{\textsf{Under 16 (please don't lie abour your age!)}}$<br><br>&nbsp;  </kbd></p>
 
  <br>
     </td>
