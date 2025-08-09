@@ -67,7 +67,16 @@
    ${\textsf{\color{#d6bfc3}I'm still the same person (of course), but may act slightly different!}}$
 <br>
 ${\textsf{\color{#e09bba} I'll usually hang out around}}$ <i>TMC area/Docks</i> ${\textsf{\color{#e09bba} whenver this git is in use!}}$ 
-    
+
+<img src="https://64.media.tumblr.com/77c1bb11ffd9dda32896d6b1990963fa/86053b747a82ca38-82/s250x400/e89d37b6851df94d0a1016d1c373aa034afe4b44.pnj" width="85" align="center"></a>
+
+
 ![](https://64.media.tumblr.com/2db0099fd00572df99cbf890392290ba/2e5ed6036e81c865-5c/s400x600/7d99f5088e926181c827c7fb4b93aca700806c27.pnj)
 
+
+<details>
+              <summary> <td>❀</td></summary>
+
 <img width="289" height="323" alt="image" src="https://github.com/user-attachments/assets/05bbc43e-3c64-4b1a-aaac-846973d6071c" />
+
+</details>
