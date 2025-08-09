@@ -23,8 +23,9 @@
     </td>
   </tr>
 </table>
- 
-   <p align="center"><img src="https://komarev.com/ghpvc/?username=vexuliii&color=e09bba&style=for-the-badge&label=Friends Met:" title="Yes, you!"></p>
+            
+<img src="https://64.media.tumblr.com/54036728b5d528163ab429a09de48f01/992b39b6ab3235eb-47/s100x200/f864d3d0848d565b5296396f09d0dc50b60ab741.webp" width="3%" height="10%"></a> <p align="center"><img src="https://komarev.com/ghpvc/?username=vexuliii&color=e09bba&style=for-the-badge&label=Friends Met:" title="Yes, you!"></p>
+   
 
 <table border="2">
      <tr>
