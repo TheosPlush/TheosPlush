@@ -75,7 +75,7 @@ ${\textsf{\color{#e09bba} I'll usually hang out around}}$ <i>TMC area/Docks</i> 
 
 
 <details>
-              <summary> <td>❀</td></summary>
+              <summary> <td>$${\color{#f47e8d}\verb|CHANGELOG|}$$</td></summary>
 
 <img width="289" height="323" alt="image" src="https://github.com/user-attachments/assets/05bbc43e-3c64-4b1a-aaac-846973d6071c" />
 
