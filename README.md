@@ -38,8 +38,6 @@
     </td>
   </tr>
 </table>
-  Hello, I'm <b><i>Theo/Cesar</b></i>!
-
 
 <img src="https://64.media.tumblr.com/6edda2eff040b6aa4c670ee4fea52618/2e5ed6036e81c865-49/s400x600/a4ebe61c2b3243a3faefaa17276c546b2c1ed792.pnj" width="55%" height="10%"></a>
        <br>
@@ -51,10 +49,14 @@
 
 
 ![](https://64.media.tumblr.com/853ef9202dcf2eeb6010105a3308a0f5/2e5ed6036e81c865-06/s400x600/83046d111dfa5221f3027842b6a8dfebe73d48f1.pnj)
+  <br>
 
 
 <img src="https://64.media.tumblr.com/77c1bb11ffd9dda32896d6b1990963fa/86053b747a82ca38-82/s250x400/e89d37b6851df94d0a1016d1c373aa034afe4b44.pnj" width="85" align="center"></a>
-  Hello, I'm <b><i>Theo/Cesar</b></i>!
 
-  
+  ${\textsf{\color{#e09bba}Hello, I'm}}$ <b><i>Theo/Cesar</b></i>!
+  ${\textsf{\color{#e09bba}For}}$ <i>whatever</i> ${\textsf{\color{#e09bba} reason... I use this as a Coping Link!}}$ 
+  <br>
+  ${\textsf{\color{#d6bfc3} Yes, I'm serious, and no, it isnt a delusion.}}$
+  <br>
 ![](https://64.media.tumblr.com/2db0099fd00572df99cbf890392290ba/2e5ed6036e81c865-5c/s400x600/7d99f5088e926181c827c7fb4b93aca700806c27.pnj)
