@@ -97,6 +97,8 @@ ${\textsf{\color{#e09bba} I'll usually hang out around}}$ <i>TMC area/Docks</i> 
 
 ![](https://64.media.tumblr.com/2db0099fd00572df99cbf890392290ba/2e5ed6036e81c865-5c/s400x600/7d99f5088e926181c827c7fb4b93aca700806c27.pnj)
 
+<a href="https://www.last.fm/user/Vexulii"><img src="https://lastfm-recently-played.vercel.app/api?user=Vexulii&footer_style=wave&count=1&width=500&loved=true&header_style=none&bg_color=f47e8d" align="center" alt="LASTFM" title="Listening forever!"></a>
+
 
 <details>
               <summary> <td>$${\color{#f47e8d}\verb|❀|}$$</td></summary>
