@@ -32,7 +32,7 @@
          <br>
           <div align="center">
       ${\textsf{\color{#d7b3b1}Do NOT Interact!}}$ 
-<p align="center"><kbd><br><br>$\color{#f47e8d}{\textsf{Basic DNI criteria, Alternate skins (don't be weird!)}}$<br><br> $\color{#f47e8d}{\textsf{Endo/Tupla/Demo "systems"/Mental health fakers}}$<br>$\color{#f47e8d}{\textsf{is an instant block!}}$<br><br>$\color{#f47e8d}{\textsf{Under 16 (please don't lie abour your age!), along with ships! (dniuid)}}$<br><br>&nbsp;  </kbd></p>
+<p align="center"><kbd><br><br>$\color{#f47e8d}{\textsf{Basic DNI criteria, Alternate skins (don't be weird!)}}$<br><br> $\color{#f47e8d}{\textsf{Endo/Tupla/Demo "systems"/Mental health fakers}}$<br>$\color{#f47e8d}{\textsf{is an instant block!}}$<br><br>$\color{#f47e8d}{\textsf{Under 16 (please don't lie abour your age!), along with all ships!}}$<br><br>&nbsp;  </kbd></p>
 
  <br>
     </td>
