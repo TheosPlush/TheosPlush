@@ -1,24 +1,23 @@
 <!--
+
+
+
              ＿＿
 　　　　　🌸＞　　フ
 　　　　　| 　_　 _ l
 　 　　　／` ミ＿xノ
-　　 　 /　　　 　 |   Hello! This code is a little messy, but i hope you can find what you're looking for! <3
-　　　 /　 ヽ　　 ﾉ
+　　 　 /　　　 　 |   Hello! This code is a little messy, 
+　　　 /　 ヽ　　 ﾉ                 but i hope you can find what you're looking for! <3
 　 　 │　　|　|　|
 　／￣|　　 |　|　|
 　| (￣ヽ＿_ヽ_)__)
 　＼二つ
+
+
+
+
+
  </!-->
-
-
-
-
-
-
-
-
-
  
   <table border="10">
      <tr>
